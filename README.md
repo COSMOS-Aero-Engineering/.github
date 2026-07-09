@@ -1,8 +1,9 @@
 <div align = "center">
 <img src="banner.png">
 </div>
+
 # COSMOS
-Aerospace Engineering Club. We promote Aerospace Engineering among students through resources, classes, outreach, and contests.
+We promote Aerospace Engineering among students through resources, classes, outreach, and contests.
 
 # Our Team
 COSMOS is run by the [Innovative Engineering and Science Initiative](). We are looking for the team members who have an interest in Aerospace Engineering or any relevant fields of study.
